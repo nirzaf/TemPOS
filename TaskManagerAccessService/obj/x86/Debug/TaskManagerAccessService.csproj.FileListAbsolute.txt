@@ -16,3 +16,11 @@ F:\Programming\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessSe
 F:\Programming\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.csproj.GenerateResource.Cache
 F:\Programming\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.exe
 F:\Programming\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\bin\TaskManagerAccessService.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\bin\TaskManagerAccessService.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.csprojAssemblyReference.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.ProjectInstaller.resources
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.csproj.GenerateResource.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessService\obj\x86\Debug\TaskManagerAccessService.pdb

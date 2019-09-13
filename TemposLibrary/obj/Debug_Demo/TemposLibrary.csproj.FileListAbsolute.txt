@@ -19,3 +19,9 @@ F:\Programming\TemPOS\TemposLibrary\bin\Debug_Demo\TemposLibrary.dll
 F:\Programming\TemPOS\TemposLibrary\bin\Debug_Demo\TemposLibrary.pdb
 F:\Programming\TemPOS\TemposLibrary\obj\Debug_Demo\TemposLibrary.dll
 F:\Programming\TemPOS\TemposLibrary\obj\Debug_Demo\TemposLibrary.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLibrary\bin\Debug_Demo\TemposLibrary.dll
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLibrary\bin\Debug_Demo\TemposLibrary.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLibrary\obj\Debug_Demo\TemposLibrary.csprojAssemblyReference.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLibrary\obj\Debug_Demo\TemposLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLibrary\obj\Debug_Demo\TemposLibrary.dll
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLibrary\obj\Debug_Demo\TemposLibrary.pdb

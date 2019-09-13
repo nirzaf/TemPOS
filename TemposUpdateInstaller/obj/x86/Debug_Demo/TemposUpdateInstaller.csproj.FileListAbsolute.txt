@@ -44,3 +44,14 @@ F:\Programming\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInsta
 F:\Programming\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.csproj.GenerateResource.Cache
 F:\Programming\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.exe
 F:\Programming\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\bin\Debug_Demo\TemposUpdateInstaller.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\bin\Debug_Demo\TemposUpdateInstaller.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\bin\Debug_Demo\TemposLibrary.dll
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\bin\Debug_Demo\TemposLibrary.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.csprojAssemblyReference.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.Properties.Resources.resources
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.csproj.GenerateResource.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.csproj.CopyComplete
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TemposUpdateInstaller\obj\x86\Debug_Demo\TemposUpdateInstaller.pdb

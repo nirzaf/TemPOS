@@ -16,3 +16,11 @@ F:\Programming\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskMana
 F:\Programming\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.csproj.GenerateResource.Cache
 F:\Programming\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.exe
 F:\Programming\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\bin\TaskManagerAccessServiceUninstaller.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\bin\TaskManagerAccessServiceUninstaller.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.csprojAssemblyReference.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.Properties.Resources.resources
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.csproj.GenerateResource.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TaskManagerAccessServiceUninstaller\obj\x86\Debug\TaskManagerAccessServiceUninstaller.pdb

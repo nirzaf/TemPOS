@@ -18,14 +18,12 @@ namespace PosModels
         #region Licensed Access Only
         static TicketPayment()
         {
-#if !DEBUG
-            if (!System.Linq.Enumerable.SequenceEqual(
+            if (!Enumerable.SequenceEqual(
                 typeof(TicketPayment).Assembly.GetName().GetPublicKeyToken(),
-                System.Reflection.Assembly.GetEntryAssembly().GetName().GetPublicKeyToken()))
+                Assembly.GetEntryAssembly().GetName().GetPublicKeyToken()))
             {
                 throw new Exception("You are not licensed to use PosModels.dll");
             }
-#endif
         }
         #endregion
 

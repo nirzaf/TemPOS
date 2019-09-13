@@ -31,3 +31,16 @@ F:\Programming\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProces
 F:\Programming\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.csproj.GenerateResource.Cache
 F:\Programming\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.exe
 F:\Programming\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\bin\Debug\TemposLanguageProcessor.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\bin\Debug\TemposLanguageProcessor.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.csprojAssemblyReference.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\MainWindow.baml
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\App.g.cs
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor_MarkupCompile.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.g.resources
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.Properties.Resources.resources
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.csproj.GenerateResource.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.exe
+C:\Users\Nirzaf\source\repos\TemPOS\TemposLanguageProcessor\obj\x86\Debug\TemposLanguageProcessor.pdb

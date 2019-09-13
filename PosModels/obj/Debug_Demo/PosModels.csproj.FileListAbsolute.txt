@@ -33,3 +33,12 @@ F:\Programming\TemPOS\PosModels\bin\Debug_Demo\TemposLibrary.pdb
 F:\Programming\TemPOS\PosModels\obj\Debug_Demo\PosModels.csprojResolveAssemblyReference.cache
 F:\Programming\TemPOS\PosModels\obj\Debug_Demo\PosModels.dll
 F:\Programming\TemPOS\PosModels\obj\Debug_Demo\PosModels.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\bin\Debug_Demo\PosModels.dll
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\bin\Debug_Demo\PosModels.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\bin\Debug_Demo\TemposLibrary.dll
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\bin\Debug_Demo\TemposLibrary.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\obj\Debug_Demo\PosModels.csprojAssemblyReference.cache
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\obj\Debug_Demo\PosModels.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\obj\Debug_Demo\PosModels.csproj.CopyComplete
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\obj\Debug_Demo\PosModels.dll
+C:\Users\Nirzaf\source\repos\TemPOS\PosModels\obj\Debug_Demo\PosModels.pdb

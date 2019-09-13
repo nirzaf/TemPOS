@@ -4,3 +4,10 @@ F:\Programming\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.Proper
 F:\Programming\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.csproj.GenerateResource.Cache
 F:\Programming\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.exe
 F:\Programming\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\bin\Debug\AssemblyInfoUpdate.exe
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\bin\Debug\AssemblyInfoUpdate.pdb
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.Properties.Resources.resources
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.csproj.GenerateResource.cache
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.exe
+C:\Users\Nirzaf\source\repos\TemPOS\AssemblyInfoUpdate\obj\x86\Debug\AssemblyInfoUpdate.pdb
