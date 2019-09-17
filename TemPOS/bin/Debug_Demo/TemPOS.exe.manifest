@@ -115,14 +115,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemPOS.exe" size="23682560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemPOS.exe" size="23682048">
       <assemblyIdentity name="TemPOS" version="1.1.0.651" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>M+ojBN2kZILCGerpCtvZqHh+JrU=</dsig:DigestValue>
+        <dsig:DigestValue>/fQe/sq7Z6VuxIXRMIcGljbxyFU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

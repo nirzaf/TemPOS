@@ -77,25 +77,25 @@ namespace TemPOS
             StringsCore.SetDefaultLanguage();
             StringsCore.LanguageChanged += StringsCore_LanguageChanged;
 
-            if (ApplicationDeployment.IsNetworkDeployed)
-            {
-                Version version = ApplicationDeployment.CurrentDeployment.CurrentVersion;
-                labelVersion.Content = Types.Strings.Version + version.Major + "." + version.Minor;
-                labelBuild.Content = Types.Strings.Build + " " + version.Build +
-                    (version.Revision > 0 ? Types.Strings.Revision + version.Revision : "");
-            }
-            else
-            {
-                Version version = ApplicationDeployment.CurrentDeployment.CurrentVersion;
-                labelVersion.Content = "Version 1.0";
-                labelBuild.Content = Types.Strings.Build + " " + version.Build;
-            }
-#if DEMO
-            labelBuild.Content += " (DEMO)";
-#endif
+            //if (ApplicationDeployment.IsNetworkDeployed)
+            //{
+            //    Version version = ApplicationDeployment.CurrentDeployment.CurrentVersion;
+            //    labelVersion.Content = Strings.Version + version.Major + "." + version.Minor;
+            //    labelBuild.Content = Strings.Build + " " + version.Build +
+            //        (version.Revision > 0 ? Strings.Revision + version.Revision : "");
+            //}
+            //else
+            //{
+            //    Version version = ApplicationDeployment.CurrentDeployment.CurrentVersion;
+            //    labelVersion.Content = "Version 1.0";
+            //    labelBuild.Content = Strings.Build + " " + version.Build;
+            //}
+//#if DEMO
+//            labelBuild.Content += " (DEMO)";
+//#endif
             labelCopyright.Content = GetCopyright();
 
-            Logger.WriteLog(Types.Strings.StartingApplication);
+            Logger.WriteLog(Strings.StartingApplication);
 
             //this.Width = SystemParameters.PrimaryScreenWidth;
             //this.Height = SystemParameters.PrimaryScreenHeight;
