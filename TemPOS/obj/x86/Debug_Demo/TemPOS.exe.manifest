@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="TemPOS.exe" version="1.0.627.10" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="TemPOS.exe" version="1.0.627.10" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Tempos.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="TemPOS" version="1.1.0.651" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="TemPOS" version="1.1.0.651" language="neutral" processorArchitecture="msil" />
     <commandLine file="TemPOS.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -16,14 +16,14 @@
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
           UAC Manifest Options
-          If you want to change the Windows User Account Control level replace the 
+          If you want to change the Windows User Account Control level replace the
           requestedExecutionLevel node with one of the following.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         If you want to utilize File and Registry Virtualization for backward 
+         If you want to utilize File and Registry Virtualization for backward
          compatibility then delete the requestedExecutionLevel node.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
@@ -40,11 +40,6 @@
   <dependency>
     <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
       <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="System.Data.SqlServerCe" version="3.5.1.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
     </dependentAssembly>
   </dependency>
   <dependency>
@@ -96,60 +91,60 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PosControls.dll" size="329216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PosControls.dll" size="320512">
       <assemblyIdentity name="PosControls" version="1.0.651.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>aeilVX5Fo++IVITeqAbqVxeH268=</dsig:DigestValue>
+        <dsig:DigestValue>OyM1s9Lhz4rkWnglcyzhbLFD+d4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PosModels.dll" size="672256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PosModels.dll" size="607744">
       <assemblyIdentity name="PosModels" version="1.1.0.651" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>56Ng9P4oWIamaGqrzaOcew+yunU=</dsig:DigestValue>
+        <dsig:DigestValue>LdGRxaXF1bdznVH7Zt+R2O6VBio=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemPOS.exe" size="23722496">
-      <assemblyIdentity name="TemPOS" version="1.1.0.651" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemPOS.exe" size="23682560">
+      <assemblyIdentity name="TemPOS" version="1.1.0.651" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>CFLFzPfPrlgNHY9v/B4SiQGyw9Y=</dsig:DigestValue>
+        <dsig:DigestValue>M+ojBN2kZILCGerpCtvZqHh+JrU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemposLibrary.dll" size="65536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemposLibrary.dll" size="64512">
       <assemblyIdentity name="TemposLibrary" version="1.1.0.651" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>i6iPedX2KSW37ZU6Rcw02VzaeYk=</dsig:DigestValue>
+        <dsig:DigestValue>F/b9jQK9rTTVTBntE8kdPhX4U3s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="DataFiles\TaskManagerAccessService.exe" size="14848">
+  <file name="DataFiles\TaskManagerAccessService.exe" size="15360">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>hqGwMlWsHIr+bv6eZ/zTtfk++Dk=</dsig:DigestValue>
+      <dsig:DigestValue>F5E38RbX49wwG6KQ90hxvZwt7Lw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DataFiles\TaskManagerAccessServiceUninstaller.exe" size="12800">
@@ -158,16 +153,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>WTllxbDFhjxDL9Y8JCAgimKfZyo=</dsig:DigestValue>
+      <dsig:DigestValue>mIUqmfGkwn7gdCmDLkgNJoRiY1g=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="TemPOS.exe.config" size="558">
+  <file name="TemPOS.exe.config" size="755">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>zT1IQNkp7577Nmw8lmuEz8CqQL4=</dsig:DigestValue>
+      <dsig:DigestValue>r4VkU9Y02+qShgwrNOk9GybFAsc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Tempos.ico" size="12862">
